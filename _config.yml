@@ -1,10 +1,10 @@
 title: Volunthree
-description: A web application for Volunteering.
+description: Organization page for Volunthree
+remote_theme: pages-themes/minimal@v0.2.0
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/volunthree/volunthree
-gems:
-  - jekyll-mentions
+plugins:
+- jekyll-remote-theme
