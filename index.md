@@ -18,3 +18,4 @@ Volunthree is designed, implemented, and maintained by:
 - [Tevin Takata](https://github.com/tevin-takata)
 - [Kai Matsusaka](https://github.com/kairemUH)
 - [Tyler Asato](https://github.com/tylerz1443)
+- [Austin Dang](https://github.com/austindang67)
